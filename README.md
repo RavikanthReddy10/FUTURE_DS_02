@@ -44,7 +44,3 @@ This project analyzes customer churn behavior using the Telco Customer Churn dat
 ## 📂 Dataset
 
 * Source: Kaggle (Telco Customer Churn Dataset)
-
-## 📌 Author
-
-* Your Name
